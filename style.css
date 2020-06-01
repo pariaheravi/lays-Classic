@@ -1,0 +1,47 @@
+.img {
+    background-color: yellow;
+    position: relative;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+}
+
+.img h1 {
+    margin-top: 15%;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    float: right;
+    margin-right: 15%;
+}
+
+.img h3 {
+    float: right;
+    margin-right: 25%;
+    position: relative;
+    left: -10px;
+    top: -300px;
+    font-size: medium;
+}
+
+.tessst {
+    width: calc(100% - (650px + 78px));
+}
+
+.bi {
+    background-color: yellow;
+    color: orangered;
+    
+}
+
+.list {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    margin-right: 20%;
+    margin-bottom: 15px ;
+}
+
+.star{
+    position: relative;
+    left: 90px;
+}
